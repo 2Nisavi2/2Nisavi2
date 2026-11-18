@@ -14,9 +14,10 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 📊 Construyo modelos de **machine learning**, **series de tiempo** y **visión por computadora**, desde la exploración de los datos hasta el despliegue.
-- 🤖 Actualmente me estoy formando en **LLMs** y en el ecosistema de **Hugging Face**.
-- ☁️ Despliego proyectos en **Railway** y **Azure**.
+- 📊 Soy Científico de Datos, con experiencia en el desarrollo de soluciones analíticas para industrias de hidrocarburos en el sector midstream e igualmente en suministro de gas.
+- 🤖 Tengo una Maestría en Estadística Aplicada y Ciencia de Datos. Actualmente curso una segunda Maestría en Inteligéncia Artificial.
+- ☁️ He estado trabajando en proyectos personales enfocados en el aprovechamiento de agentes de IA desde Claude para el desarrollo de soluciones en Ciencia de Datos, visión computacional y desarrollo de productos basados en skills.
+- ⚽ Hincha #1 de independiente Santa Fe 🦁.
 - 🇨🇴 Bogotá, Colombia.
 - 💬 Hablemos de: ciencia de datos, modelos predictivos, automatización y fútbol ⚽.
 
@@ -47,10 +48,6 @@
 |---|---|---|
 | 🏨 [Hotel Booking Demand](https://github.com/2Nisavi2/NOMBRE_REPO) | Análisis y modelamiento de cancelaciones de reservas hoteleras con el dataset de Kaggle. | Python, Pandas, scikit-learn |
 | 🌦️ [LSTM vs ARMAX](https://github.com/2Nisavi2/NOMBRE_REPO) | Pronóstico de punto de rocío (Tdew) con 13 variables climáticas, comparando deep learning con modelos clásicos. | TensorFlow/Keras, statsmodels |
-| ⚽ [Bot de WhatsApp – Santa Fe](https://github.com/2Nisavi2/NOMBRE_REPO) | Bot que avisa en un grupo los partidos y eventos en vivo de Independiente Santa Fe (masculino y femenino). | Python, Railway |
-| 🦁 [Clasificador de animales](https://github.com/2Nisavi2/NOMBRE_REPO) | Modelo de visión por computadora (elefante, jirafa, león) entrenado y publicado en Azure Custom Vision. | Azure Custom Vision |
-| 🩻 [Clasificación en rayos X](https://github.com/2Nisavi2/NOMBRE_REPO) | Clasificación de género en radiografías (SPR X-Ray, Kaggle) con Teachable Machine, evaluada en Colab. | Teachable Machine, Colab |
-| 🤗 [Taller LLM – Hugging Face](https://github.com/2Nisavi2/NOMBRE_REPO) | Exploración de modelos preentrenados de Hugging Face para distintas tareas de NLP. | Transformers, Colab |
 
 > 🔗 **Demo en vivo:** [mi-app.up.railway.app](https://TU-APP.up.railway.app)
 
